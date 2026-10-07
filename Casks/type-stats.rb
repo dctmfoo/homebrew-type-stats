@@ -7,7 +7,7 @@ cask "type-stats" do
   desc "Menu bar app that counts key presses and clicks per app"
   homepage "https://github.com/dctmfoo/type-stats"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "TypeStats.app"
 

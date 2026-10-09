@@ -1,6 +1,6 @@
 cask "type-stats" do
-  version "0.1.0"
-  sha256 "fcec16316b41b563b689236ac57495231555defb0ba3b68f14479b2327581315"
+  version "0.1.1"
+  sha256 "7f61eb936e5197ec2850c425b3a212e5abf1dfcc39fb301192dd511d89f370dd"
 
   url "https://github.com/dctmfoo/type-stats/releases/download/v#{version}/TypeStats-#{version}.zip"
   name "TypeStats"
